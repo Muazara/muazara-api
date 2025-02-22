@@ -1,4 +1,6 @@
+
 {
+  "start": "node server.js",
   "name": "air-shipping-backend",
   "version": "1.0.0",
   "description": "",
